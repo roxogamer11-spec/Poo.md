@@ -13,12 +13,12 @@
 ## **Java Primality Test**
 <img width="703" height="548" alt="java-primality-test" src="https://github.com/user-attachments/assets/48f3e6ce-d02b-45f2-94fa-a1db3ed12c43" />
 
-<img width="722" height="453" alt="java-primality-test" src="https://github.com/user-attachments/assets/0a8392f9-08e4-4a57-be4a-5ee2ebeb76b0" />
+<img width="729" height="474" alt="primalitest" src="https://github.com/user-attachments/assets/87d82762-b1a5-417d-9778-e6d7c58f8afb" />
 
 ## **Java BigInteger**
 <img width="707" height="547" alt="java-biginteger" src="https://github.com/user-attachments/assets/59047d9a-6073-47b7-be61-3a70a3952d4c" />
 
-<img width="714" height="448" alt="java-biginteger" src="https://github.com/user-attachments/assets/30376568-e86d-4349-84f1-8e60abfdc6fd" />
+<img width="710" height="454" alt="big integer" src="https://github.com/user-attachments/assets/50d20223-0232-4a1c-b089-efe803dea60c" />
 
 ## **Java Inheritance I**
 <img width="708" height="482" alt="java-inheritance-1" src="https://github.com/user-attachments/assets/60f7d1ee-46a5-45e8-8b82-e52438e6f67c" />
